@@ -1,0 +1,14 @@
+BENODIGDHEDEN
+
+- Kinect
+- Plexiglas
+- RGB ledjes
+
+
+MAKEN
+
+Plexiglas opschuren, uitsnijden en in pyramides lijmen. Pyramidepatroon opzetten (bijv. op ondergrond, of lijmen). 
+In elke pyramide zitten RBG ledjes die een per een aangestuurd kunnen worden.
+Kinect wordt gebruikt om de bewegingen/personen te meten. Deze waardes worden gemapt zodat er aan het ledpatroon kan
+worden doorgegeven welke ledjes wanneer aan moeten springen.
+Ook zit er een standaard kleurpatroon en een aantal animaties ingeprogrammeerd.
