@@ -1,0 +1,13 @@
+BENODIGDHEDEN
+
+- Eye tracking sensor
+- Afstandssensor
+- Waterspuit/drukspuit
+
+
+MAKEN
+
+De afstandssensor meet wanneer er iemand in de buur is. 
+Zodra iemand zich binnen een bepaalde afstand bevindt, wordt er gemeten of er "in de ogen" wordt gekeken. 
+Eye tracking techniek meet wanneer er in de ogen wordt gekeken.
+Wanneer er in de ogen gekeken wordt, gaat de motor van de hoge druksspuit aan en spuit het water uit de ogen.
