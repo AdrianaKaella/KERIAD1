@@ -1,0 +1,5 @@
+In de code wordt de Arduino geïnitialized en aangesloten.
+
+Ik wil bereiken dat hoe dichterbij de hand bij de sensor is, hoe warmer de ledjes van kleur worden.
+De reden dat ik 3 verschillende waardes map, is omdat ik niet tevreden was met de originele output die ik kreeg als ik simpelweg de laagste waarde als blauw zette en de hoogste waarde als rood-oranje.
+Nu heeft de code van 0 - 250 (een vrij flinke range) om in een blauwe kleur te blijven. Pas na 250 gaat hij richting een warmere kleur. Tussen de 450 - 700 is het nog oranje-rood. Dit heb ik gedaan zodat de gebruiker een vrij grote range heeft waarin het licht een warme kleur krijgt, zodat het ook daadwerkelijk merkbaar is. Met de originele waarde had een vrij kleine range een écht warme kleur.
